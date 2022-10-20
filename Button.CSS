@@ -1,0 +1,55 @@
+.btn {
+	
+	padding-top:8px;
+	padding-bottom:8px;
+	
+	padding-left:12px;
+	padding-right:12px;
+	
+	
+}
+
+.btn-secondary{
+	background-color:grey;
+	color:black;
+}
+.btn-disabled{
+	background-color:red;
+	color:white;
+}
+.btn-reset{
+	background-color:yellow;
+	color:black;
+}
+.btn-warning{
+	background-color:black;
+	color:white;
+}
+.btn-success{
+	background-color:green;
+	color:white
+}
+
+
+.btn{
+	
+	padding-top:8px;
+	padding-bottom:8px;
+	
+	padding-left:12px;
+	padding-right:12px;
+}
+.btn-primary{
+	background-color:blue;
+	color:white
+	border-top-left-style:0px;
+	border-bottom-right-style:opx;
+}
+.btn-swim{
+	background-color:white;
+	color:black;
+}
+.btn-danger{
+	background-color:red;
+	color:white;
+}
